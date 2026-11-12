@@ -1,5 +1,8 @@
 # Proyecto IAW-web
 
+SIX SEVEN POR VOSOTRAS <img width="220" height="148" alt="image" src="https://github.com/user-attachments/assets/65ebe3d7-a205-4daf-8e25-2fa2954a31b5" />
+
+
 Repositorio para las prácticas de **Implantación de Aplicaciones Web** del ciclo *ASIR*.
 
 ## Contenidos del proyecto
